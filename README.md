@@ -1,6 +1,5 @@
-# Faetundar
-The beginning of something epic
-html>
+
+<html>
 <head></head>
 <body>
 <table>Stats
@@ -24,5 +23,5 @@ html>
 <button onclick="LoadCharacter();"> Load Character </button>
 </body>
 
-<script src="GeoLocRpgX.js"></script>
+<script src="script.js"></script>
 </html>
